@@ -6,14 +6,13 @@ pip install flask
 
 pip install flask opencv-python tensorflow numpy 
 
+pip install tensorflow
+
 
 ## run command:
 
 
 python app.py
-
-
-http://localhost:5000 (Used to run web applications on a local machine before deploying them to a live server)
 
 
 ## Dummy test run command:
@@ -66,5 +65,10 @@ Frontend: Build a frontend interface where users can upload images or use their 
 Hosting: Use cloud services like AWS to host your web application. (MAYBE HUGE)
 
 Scaling: Ensure the application can handle multiple users simultaneously, potentially using Docker and Kubernetes for containerization and orchestration.
+
+
+## Soureces from public:
+
+https://github.com/atulapra/Emotion-detection?tab=readme-ov-file
 
 

@@ -13,6 +13,9 @@ pip install flask opencv-python tensorflow numpy
 python app.py
 
 
+http://localhost:5000 (Used to run web applications on a local machine before deploying them to a live server)
+
+
 ## Dummy test run command:
 
 

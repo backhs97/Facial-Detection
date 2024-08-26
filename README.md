@@ -28,6 +28,8 @@ python create_dummy_model.py (tested and worked)
 
 https://www.kaggle.com/datasets/msambare/fer2013/data
 
+https://azure.microsoft.com/en-us/products/ai-services/#detection (API)
+
 **NEED MORE...**
 
 

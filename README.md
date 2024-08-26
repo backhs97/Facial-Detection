@@ -20,7 +20,7 @@ python app.py
 ## Dummy test run command:
 
 
-python create_dummy_model.py
+python create_dummy_model.py (tested and worked)
 
 
 

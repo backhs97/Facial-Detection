@@ -8,6 +8,8 @@ pip install flask opencv-python tensorflow numpy
 
 pip install tensorflow
 
+pip install opencv-python
+
 
 ## run command:
 

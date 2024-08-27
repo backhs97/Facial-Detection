@@ -75,4 +75,6 @@ Scaling: Ensure the application can handle multiple users simultaneously, potent
 
 https://github.com/atulapra/Emotion-detection?tab=readme-ov-file
 
+https://github.com/ibhanu/emotion-detection
+
 

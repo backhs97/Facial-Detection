@@ -1,0 +1,30 @@
+TRAIN MODEL: 
+
+Model trained and saved as emotion_model.h5
+Final training accuracy: 0.6060
+Final training loss: 1.0474
+Final validation accuracy: 0.6147
+Final validation loss: 1.0557
+
+----------------------------
+
+TEST MODEL:
+Overall Accuracy: 0.39
+Confusion matrix saved as 'confusion_matrix.png'
+
+Classification Report:
+              precision    recall  f1-score   support
+
+       Angry       0.52      0.55      0.53       958
+     Disgust       0.76      0.14      0.24       111
+        Fear       0.49      0.32      0.39      1024
+       Happy       0.78      0.88      0.83      1774
+         Sad       0.03      0.02      0.03      1233
+    Surprise       0.21      0.29      0.24      1247
+     Neutral       0.01      0.01      0.01       831
+
+    accuracy                           0.39      7178
+   macro avg       0.40      0.32      0.32      7178
+weighted avg       0.39      0.39      0.38      7178
+
+Model testing completed.

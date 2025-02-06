@@ -11,7 +11,7 @@ pip install tensorflow
 pip install opencv-python
 
 
-## run command:
+## Run command:
 
 python app.py
 
